@@ -1,5 +1,5 @@
 # bhajan-demo
-<h1>This is the demo Repository</h1> ,
+<h3>This is the demo Repository</h3>
 <br>
-<h2>dummy project</h2>
+dummy project
 sample.
